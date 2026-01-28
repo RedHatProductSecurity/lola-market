@@ -23,6 +23,17 @@ modules:
       - "tutorial"
       - "all"
 
+  - name: "orientation-module"
+    description: "RH-SDLC Orientation guidance for Product Security Engineers"
+    version: "0.1.0"
+    repository: "https://gitlab.cee.redhat.com/jkelly/orientation-module"
+    tags:
+      - "sdlc"
+      - "orientation"
+      - "prodsec"
+      - "workflow"
+      - "all"
+
 # Example module entry:
 #
 # - name: "your-module"

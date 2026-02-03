@@ -23,6 +23,15 @@ modules:
       - "tutorial"
       - "all"
 
+  - name: "openssf-skill"
+    description: "OpenSSF Security Instructions for AI Coding Assistants"
+    version: "v0.1.0"
+    repository: "https://github.com/ryanwaite/openssf-skill.git"
+    tags:
+      - "openssf"
+      - "security"
+      - "instructions"
+      - "all"
 # Example module entry:
 #
 # - name: "your-module"

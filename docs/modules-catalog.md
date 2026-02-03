@@ -7,6 +7,7 @@
 ## Contents
 
 - [Module Development](#module-development)
+- [Security Modules](#security-modules)
 - [Learning & Examples](#learning--examples)
 
 ---
@@ -31,6 +32,34 @@ Agent Skills best practices.
 - Pattern recognition (Simple, Reference, Workflow, Automation)
 - Template generation
 - Validation and linting
+
+---
+
+## Security Modules
+
+A curated list of AI Context Modules for Security Workflow
+
+### openssf-skill
+
+A comprehensive Claude Code/Copilot skill that helps developers build secure 
+applications following 
+[OpenSSF (Open Source Security Foundation)](https://openssf.org/) best practices.
+
+**Repository:** https://github.com/ryanwaite/openssf-skill
+**Author:** Ryan Waite
+**Version:** v0.1.0
+**Tags:** `openssf`, `security`, `workflow`
+**Assistants:** Claude Code, Cursor, Gemini CLI
+
+**Features:**
+- Threat Modeling: STRIDE methodology guide with templates
+- Security Policies: SECURITY.md and vulnerability disclosure templates
+- OpenSSF Scorecard: All 20 checks explained with remediation steps
+- OSPS Baseline: Level 1 compliance checklist
+- SBOM Generation: Tools for 12+ languages/ecosystems
+- SLSA Provenance: GitHub Actions workflows for Level 3
+- Dependency Security: Scanning tools and vulnerability response
+- Security Code Review: OWASP Top 10 focused review guide
 
 ---
 

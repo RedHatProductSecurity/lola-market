@@ -32,6 +32,19 @@ modules:
       - "security"
       - "instructions"
       - "all"
+
+  - name: "secdevai"
+    description: "AI-powered secure development assistant with OWASP Top 10 and WSTG security analysis"
+    version: "0.1.0"
+    repository: "https://github.com/RedHatProductSecurity/secdevai"
+    path: "lola-module"
+    tags:
+      - "security"
+      - "owasp"
+      - "wstg"
+      - "security-review"
+      - "sarif"
+      - "all"
 # Example module entry:
 #
 # - name: "your-module"

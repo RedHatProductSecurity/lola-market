@@ -278,7 +278,7 @@ See the marketplace catalog for examples:
 
 - **[Lola Documentation](https://github.com/RedHatProductSecurity/lola)**:
   Official Lola docs
-- **[Lola Marketplace](../modules-catalog.md)**: Browse existing
+- **[Lola Marketplace](./modules-catalog.md)**: Browse existing
   modules for inspiration
 - **[Module Structure Reference](https://github.com/RedHatProductSecurity/lola#module-structure)**:
   Detailed structure guide

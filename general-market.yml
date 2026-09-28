@@ -46,7 +46,7 @@ modules:
       - "sarif"
       - "all"
 
-  - name: "threat-model"
+  - name: "agentic-threat-modeling"
     description: "AI-assisted threat modeling with STRIDE, PASTA, LINDDUN, VAST, Attack Trees, and OCTAVE, automatic threat actor profiling, and narrative attack scenarios grounded in code citations"
     version: "0.1.0"
     repository: "https://github.com/RedHatProductSecurity/agentic-threat-modeling"
